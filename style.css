@@ -1,0 +1,162 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;  
+}
+header{
+    background-color: black;
+    padding: 30px 0;
+}
+header .container{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+}
+nav ul {
+    display: flex;
+align-items: center;
+gap: 50px;
+list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color:grey ;
+}
+input{
+    padding: 10px 5px;
+}
+.hero{
+    background-image: url(./img/slider2\ 1.png);
+    background-color: black;
+   color: white;
+   padding: 50px 0;
+   background-position: center right;
+   background-repeat: no-repeat;
+}
+.btn{
+    padding: 15px;
+    background: #76B900;
+    border: none;
+}
+h1{
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+color: white;
+margin-bottom: 90px;
+}
+.games{
+    padding: 50px 0;
+}
+.games h2{
+font-size: 48px;
+font-weight: 700;
+line-height: 58.09px;
+text-align: center;
+margin-bottom: 30px;
+}
+.card{
+    box-shadow: 0px 17px 27px -4px #00000040;
+width: 290px;
+text-align: center;
+padding-bottom: 20px;
+}
+.card h3{
+    margin: 20px 0;
+}
+.card a{
+text-decoration: none;
+color: black;
+}
+.card span{
+    color: green;
+    font-weight: 900;
+    font-size: 20px;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.deep .container{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.box h2{
+   color: #76B900;
+   margin-bottom: 28px;
+font-size: 48px;
+font-weight: 700;
+line-height: 58.09px;
+}
+.box h4{
+    margin-bottom: 58px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+}
+.a{
+    padding: 100px 0;
+}
+.a .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
